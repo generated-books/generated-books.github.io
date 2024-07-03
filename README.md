@@ -14,7 +14,7 @@ These books were generated using AI by translating books in other places:
 * [Cuadernos de Análisis de Bioimágenes (Spanish)](https://generated-books.github.io/cuaderno-de-analisis-de-bioimagenes)
 
 
-![](logo.png)
+![](https://github.com/generated-books/generated-books.github.io/raw/main/logo.png)
 
 ## Imprint
 
