@@ -13,6 +13,9 @@ These books were generated using AI by translating books in other places:
 * [Notizbücher zur Bio-Bildanalyse (German)](https://generated-books.github.io/bio-bildanalyse-notebooks/intro.html)
 * [Cuadernos de Análisis de Bioimágenes (Spanish)](https://generated-books.github.io/cuaderno-de-analisis-de-bioimagenes)
 
+
+![](logo.png)
+
 ## Imprint
 
 * [Imprint](https://github.com/generated-books/generated-books.github.io/blob/main/imprint.md)
