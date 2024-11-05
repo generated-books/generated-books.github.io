@@ -15,6 +15,8 @@ These books were generated using AI by translating books in other places:
 * [Cadernos de Análise de Bioimagem (Portuguese)](https://github.com/generated-books/caderno-de-analise-de-bioimagens)
 * [Cahiers d'analyse d'images biologiques (French)](https://github.com/generated-books/cahiers-analyse-images-biologiques)
 * [版本说明 (Chinese)](https://github.com/generated-books/bioimage-analysis-notebooks-cn)
+
+
 ![](https://github.com/generated-books/generated-books.github.io/raw/main/logo.png)
 
 ## Imprint
