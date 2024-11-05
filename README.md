@@ -12,9 +12,9 @@ These books were generated using AI from scratch:
 These books were generated using AI by translating books in other places:
 * [Notizbücher zur Bio-Bildanalyse (German)](https://generated-books.github.io/bio-bildanalyse-notebooks/intro.html)
 * [Cuadernos de Análisis de Bioimágenes (Spanish)](https://generated-books.github.io/cuaderno-de-analisis-de-bioimagenes)
-* [Cadernos de Análise de Bioimagem (Portuguese)](https://github.com/generated-books/caderno-de-analise-de-bioimagens)
-* [Cahiers d'analyse d'images biologiques (French)](https://github.com/generated-books/cahiers-analyse-images-biologiques)
-* [版本说明 (Chinese)](https://github.com/generated-books/bioimage-analysis-notebooks-cn)
+* [Cadernos de Análise de Bioimagem (Portuguese)](https://generated-books.github.io/caderno-de-analise-de-bioimagens)
+* [Cahiers d'analyse d'images biologiques (French)](https://generated-books.github.io/cahiers-analyse-images-biologiques)
+* [版本说明 (Chinese)](https://generated-books.github.io/bioimage-analysis-notebooks-cn)
 
 
 ![](https://github.com/generated-books/generated-books.github.io/raw/main/logo.png)
